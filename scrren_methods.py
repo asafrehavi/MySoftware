@@ -1,5 +1,5 @@
 def welcome():
-   print('New Screen 11')
+   print('New Screen')
 
 
 
